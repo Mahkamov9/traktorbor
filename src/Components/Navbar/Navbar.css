@@ -1,0 +1,44 @@
+.navbar{
+    width: 100%;
+    background: linear-gradient(#490e9b, #3f1998df);
+    height: 65px;
+}
+
+.nav_box{
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav_link{
+    color: white;
+    font-weight: bold;
+}
+
+.logo{
+    color: yellow;
+}
+
+.link{
+    color: white;
+}
+
+.nav_select{
+    border: 3px solid yellow;
+    border-radius: 10px;
+    padding: 5px;
+    outline: none;
+    color: white;
+    font-weight: bold;
+    background-color: transparent;
+}
+
+.nav_option{
+    border: none;
+    outline: none;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: rgb(25, 25, 93);
+}
