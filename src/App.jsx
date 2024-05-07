@@ -1,4 +1,4 @@
-endi boshlandi 
+sadendi boshlandi 
 gh
 ghff
 import './App.css';
