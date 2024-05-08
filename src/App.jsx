@@ -1,4 +1,4 @@
-SADlk456645sadendi boshlandi 
+asSADlk456645sadendi boshlandi 
 gh
 ghff
 import './App.css';
