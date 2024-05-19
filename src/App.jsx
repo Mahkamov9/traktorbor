@@ -9,6 +9,7 @@ function App() {
       <h2>sdasf</h2>
       <h2>sdasf</h2>
       <h2>sdasf</h2>
+      <h2>sdasf</h2>
       <HomePage/>
     </>
   );
