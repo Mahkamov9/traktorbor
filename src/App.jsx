@@ -6,6 +6,7 @@ function App() {
     <>
       <h1>Salom </h1>
       <h2>sdasf</h2>
+      <h2>sdasf</h2>
       <HomePage/>
     </>
   );
