@@ -1,4 +1,4 @@
-hadsimport './App.css';
+hhadsimport './App.css';
 import HomePage from './Pages/HomePage';
 
 function App() {
