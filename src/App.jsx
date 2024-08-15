@@ -1,4 +1,4 @@
-ccccccxddvvrg import './App.css';
+ccccccccxddvvrg import './App.css';
 import HomePage from './Pages/HomePage';
 
 function App() {
