@@ -1,4 +1,4 @@
-fadssafxccccccccccxddvvrg import './App.css';
+jfadssafxccccccccccxddvvrg import './App.css';
 import HomePage from './Pages/HomePage';
 
 function App() {
